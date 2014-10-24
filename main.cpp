@@ -1,5 +1,6 @@
 #include "sdt.h"
 
+//учебная прога
 int main()
 { int a,b,c,r;
     cout<<"Enter the number 1: ";
