@@ -2,13 +2,13 @@
 
 //учебная прога
 int main()
-{ int a,b,c,r;
+{ int a,b,c,p;
     cout<<"Enter the number 1: ";
     cin>>a;
     cout<<"Enter the number 2: ";
     cin>>b;
     c=a+b;
-    r=a-b;
     cout<<"Sum = "<<c<<endl;
-    cout<<"Diff = "<<r<<endl;
+    p=a*b;
+    cout<<"P = "<<p<<endl;
 }
